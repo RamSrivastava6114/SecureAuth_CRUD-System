@@ -11,7 +11,7 @@ This is a full-stack project that includes user authentication, user management,
 - **Protected routes** to ensure only authenticated users can access certain pages
 - **Logout functionality**
 
-## Technologies and Libraries Used
+## Techstack & Libraries
 
 ### Backend
 - **Node.js**
