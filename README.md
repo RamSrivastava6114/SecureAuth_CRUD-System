@@ -1,6 +1,6 @@
 # 🔐 Full Stack Authentication Project
 
-This is a comprehensive full-stack authentication system that provides secure user management with JWT-based authentication. The project features a robust backend API built with Node.js and Express, connected to MongoDB for data persistence, and a modern React frontend styled with Tailwind CSS.
+This is a comprehensive full-stack authentication system that provides secure user management with JWT-based authentication. The project features a robust backend API built with Node.js and Express, connected to MongoDB for data persistence, and a modern React frontend styled with Tailwind CSS
 
 ## 🚀 Features
 
